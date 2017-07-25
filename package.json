@@ -1,0 +1,24 @@
+{
+  "name": "yanimated",
+  "version": "1.0.0",
+  "description": "Online animated SVG examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LonCayeway/yAnimation.git"
+  },
+  "keywords": [
+    "SVG",
+    "GreenSock",
+    "animation"
+  ],
+  "author": "John Barclay-Morton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LonCayeway/yAnimation/issues"
+  },
+  "homepage": "https://github.com/LonCayeway/yAnimation#readme"
+}
